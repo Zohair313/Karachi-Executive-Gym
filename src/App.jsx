@@ -181,7 +181,7 @@ export default function App() {
         </div>
       </header>
       {mobileMenuOpen && (
-        <div className={"xl:hidden fixed inset-0 top-[85px] z-[100] bg-true-white overflow-y-auto"}>
+        <div className={"mobile-menu xl:hidden"}>
           <nav className={"flex flex-col px-6 py-4 text-dark-grey font-semibold uppercase text-sm"}>
             {["Home", "Classes", "Recover", "Memberships", "Meal Plans", "STAYS", "Property Investment"].map((item) => (
               <a key={item} aria-label={item} onClick={() => setMobileMenuOpen(false)} className={"block py-4 border-b border-soft-yellow cursor-pointer hover:text-brand transition-colors"}>{item}</a>
