@@ -1,7 +1,7 @@
 // AUTO-GENERATED from index.htm. Do not edit by hand.
 import { s } from "./cssToStyle.js";
 import { useState, useEffect } from "react";
-const RawBlock0 = "\n          {\n            \"@context\": \"https://schema.org\",\n            \"@graph\": [\n              {\n                \"@type\": \"Organization\",\n                \"@id\": \"https://www.bodyfactorybali.com/#organization\",\n                \"name\": \"Body Factory Bali\",\n                \"url\": \"https://www.bodyfactorybali.com/\",\n                \"logo\": \"https://www.bodyfactorybali.com/logos/bfb/black/bfb-logo-2-black.png\",\n                \"email\": \"info@gymx.com\",\n                \"telephone\": \"+62-811-3810-255\",\n                \"sameAs\": [\n                  \"https://www.instagram.com/bodyfactory_bali/\",\n                  \"https://www.facebook.com/bodyfactorybali/\",\n                  \"https://www.youtube.com/channel/UCJ4KYRsyx63Jqon1qQbwkIw\",\n                  \"https://id.linkedin.com/company/body-factorybali\",\n                  \"https://www.tiktok.com/@bodyfactory.bali\"\n                ]\n              },\n              {\n                \"@type\": \"HealthClub\",\n                \"@id\": \"https://www.bodyfactorybali.com/#healthclub\",\n                \"name\": \"Body Factory Bali\",\n                \"image\": \"https://www.bodyfactorybali.com/home-page/hero-section/hero-carousel-img-1.jpg\",\n                \"url\": \"https://www.bodyfactorybali.com/\",\n                \"telephone\": \"+62-811-3810-255\",\n                \"email\": \"info@gymx.com\",\n                \"address\": {\n                  \"@type\": \"PostalAddress\",\n                  \"streetAddress\": \"Jl. Nelayan No.27, Kec. Kuta Utara\",\n                  \"addressLocality\": \"Canggu\",\n                  \"addressRegion\": \"Bali\",\n                  \"postalCode\": \"80361\",\n                  \"addressCountry\": \"ID\"\n                },\n                \"geo\": {\n                  \"@type\": \"GeoCoordinates\",\n                  \"latitude\": -8.656011,\n                  \"longitude\": 115.1348921\n                },\n                \"openingHoursSpecification\": [\n                  {\n                    \"@type\": \"OpeningHoursSpecification\",\n                    \"dayOfWeek\": [\n                      \"Monday\",\n                      \"Tuesday\",\n                      \"Wednesday\",\n                      \"Thursday\",\n                      \"Friday\",\n                      \"Saturday\",\n                      \"Sunday\"\n                    ],\n                    \"opens\": \"06:00\",\n                    \"closes\": \"22:00\"\n                  }\n                ],\n                \"sameAs\": [\n                  \"https://www.instagram.com/bodyfactory_bali/\",\n                  \"https://www.facebook.com/bodyfactorybali/\",\n                  \"https://www.youtube.com/channel/UCJ4KYRsyx63Jqon1qQbwkIw\",\n                  \"https://id.linkedin.com/company/body-factorybali\",\n                  \"https://www.tiktok.com/@bodyfactory.bali\"\n                ]\n              }\n            ]\n          }";
+const RawBlock0 = "\n          {\n            \"@context\": \"https://schema.org\",\n            \"@graph\": [\n              {\n                \"@type\": \"Organization\",\n                \"@id\": \"https://www.bodyfactorybali.com/#organization\",\n                \"name\": \"Karachi Executive Gym\",\n                \"url\": \"https://www.bodyfactorybali.com/\",\n                \"logo\": \"https://www.bodyfactorybali.com/logos/bfb/black/bfb-logo-2-black.png\",\n                \"email\": \"info@gymx.com\",\n                \"telephone\": \"+92-312-909-0455\",\n                \"sameAs\": [\n                  \"https://www.instagram.com/bodyfactory_bali/\",\n                  \"https://www.facebook.com/bodyfactorybali/\",\n                  \"https://www.youtube.com/channel/UCJ4KYRsyx63Jqon1qQbwkIw\",\n                  \"https://id.linkedin.com/company/body-factorybali\",\n                  \"https://www.tiktok.com/@bodyfactory.bali\"\n                ]\n              },\n              {\n                \"@type\": \"HealthClub\",\n                \"@id\": \"https://www.bodyfactorybali.com/#healthclub\",\n                \"name\": \"Karachi Executive Gym\",\n                \"image\": \"https://www.bodyfactorybali.com/home-page/hero-section/hero-carousel-img-1.jpg\",\n                \"url\": \"https://www.bodyfactorybali.com/\",\n                \"telephone\": \"+92-312-909-0455\",\n                \"email\": \"info@gymx.com\",\n                \"address\": {\n                  \"@type\": \"PostalAddress\",\n                  \"streetAddress\": \"Block 10-A, Gulshan-e-Iqbal\",\n                  \"addressLocality\": \"Karachi\",\n                  \"addressRegion\": \"Sindh\",\n                  \"postalCode\": \"75300\",\n                  \"addressCountry\": \"PK\"\n                },\n                \"geo\": {\n                  \"@type\": \"GeoCoordinates\",\n                  \"latitude\": -8.656011,\n                  \"longitude\": 115.1348921\n                },\n                \"openingHoursSpecification\": [\n                  {\n                    \"@type\": \"OpeningHoursSpecification\",\n                    \"dayOfWeek\": [\n                      \"Monday\",\n                      \"Tuesday\",\n                      \"Wednesday\",\n                      \"Thursday\",\n                      \"Friday\",\n                      \"Saturday\",\n                      \"Sunday\"\n                    ],\n                    \"opens\": \"06:00\",\n                    \"closes\": \"22:00\"\n                  }\n                ],\n                \"sameAs\": [\n                  \"https://www.instagram.com/bodyfactory_bali/\",\n                  \"https://www.facebook.com/bodyfactorybali/\",\n                  \"https://www.youtube.com/channel/UCJ4KYRsyx63Jqon1qQbwkIw\",\n                  \"https://id.linkedin.com/company/body-factorybali\",\n                  \"https://www.tiktok.com/@bodyfactory.bali\"\n                ]\n              }\n            ]\n          }";
 const RawBlock1 = "\n                    .Icon-06_svg__st0 {\n                      fill: none;\n                      stroke: #3a3b3a;\n                      stroke-linecap: round;\n                      stroke-linejoin: round;\n                      stroke-width: 11.7px;\n                    }\n                  ";
 const RawBlock2 = "\n                      .meet-your-coaches-icon_svg__st0 {\n                        fill: none;\n                        stroke: #3a3b3a;\n                        stroke-linecap: round;\n                        stroke-linejoin: round;\n                        stroke-width: 11.7px;\n                      }\n                    ";
 const RawBlock3 = "\n                      .bfb-events-icon_svg__st1 {\n                        fill: none;\n                        stroke: #3a3b3a;\n                        stroke-linecap: round;\n                        stroke-linejoin: round;\n                        stroke-width: 11.7px;\n                      }\n                    ";
@@ -65,7 +65,7 @@ export default function App() {
     <div className={"__variable_b02708 __className_b02708"} style={s("\n        --font-sans: var(--font-ezra), ui-sans-serif, system-ui, sans-serif;\n        --font-display: var(--font-ezra), ui-sans-serif, system-ui, sans-serif;\n      ")}>
       <header className={"z-[101] flex items-stretch justify-between px-4 2xl:px-8 text-dark-grey bg-true-white font-semibold text-sm uppercase border-b-soft-yellow relative"}>
         <a aria-label={"Home"} className={"py-[20px] mx-2 2xl:mx-8 shrink-0"}>
-          <span className={"text-2xl font-display font-bold tracking-wide"}>{"GYM X"}</span>
+          <span className={"text-2xl font-display font-bold tracking-wide"}>{"Karachi Executive Gym"}</span>
         </a>
         <div className={"hidden xl:flex gap-[8px] 2xl:gap-[20px]"}>
           <nav className={"flex gap-0 2xl:gap-[10px] items-center whitespace-nowrap"}>
@@ -334,9 +334,12 @@ export default function App() {
                   </span>
                   <br />
                   <span className={"text-true-white text-3xl md:text-4xl lg:text-5xl xl:text-6xl"}>
-                    {"GYM X"}
+                    {"Karachi Executive Gym"}
                   </span>
                 </h1>
+                <p className={"mt-2 text-lg md:text-2xl font-semibold uppercase tracking-wide text-true-white text-shadow text-center lg:text-left"}>
+                  {"Ladies & Gents Gym"}
+                </p>
                 <div className={"flex justify-center lg:justify-start"}>
                   <a className={"inline-flex items-center justify-center rounded-[10px] uppercase tracking-wide transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-brand text-dark-grey border-2 border-brand hover:bg-white hover:text-dark-grey hover:border-dark-grey focus-visible:ring-dark-grey h-[50px] mt-4 text-base px-6 py-4 md:text-2xl md:px-10 md:py-8 font-semibold"} aria-label={"Get Started with a Gym Membership"}>
                     {"GET STARTED"}
@@ -358,9 +361,9 @@ export default function App() {
                           {"We Love our community"}
                         </p>
                         <p>
-                          {"1,616 Google reviews | "}
+                          {"153 Google reviews | "}
                           <b>
-                            {"4.4"}
+                            {"4.5"}
                           </b>
                         </p>
                       </div>
@@ -427,13 +430,13 @@ export default function App() {
               <div className={"flex mt-[24px] md:mt-[48px] lg:mt-0 mb-[40px] items-center justify-center lg:hidden lg:justify-end w-full sf-hidden"}></div>
               <div className={"space-y-8"}>
                 <p>
-                  {"At GYM X, we believe that fitness and wellness\n                  should be more than just a gym membership. That's why we have\n                  created an all-inclusive facility that offers a full\n                  360-degree approach to health and wellness, designed to\n                  support our members' lifestyles and help them achieve a\n                  balance between work and play."}
+                  {"At Karachi Executive Gym, we believe that fitness and wellness\n                  should be more than just a gym membership. That's why we have\n                  created an all-inclusive facility that offers a full\n                  360-degree approach to health and wellness, designed to\n                  support our members' lifestyles and help them achieve a\n                  balance between work and play."}
                 </p>
                 <p>
                   {"Our values are centered around four main areas: Sleep,\n                  Perform, Nourish, and Restore. We understand the importance of\n                  each of these areas and have worked hard to create an\n                  environment that supports and encourages our members to\n                  prioritize them in their lives."}
                 </p>
                 <p>
-                  {"At GYM X, we are more than just a gym, we are a\n                  community of like-minded individuals who are dedicated to\n                  leading a healthy, active, and balanced lifestyle. Join us\n                  today and discover the difference that comes with being part\n                  of the GYM X community."}
+                  {"At Karachi Executive Gym, we are more than just a gym, we are a\n                  community of like-minded individuals who are dedicated to\n                  leading a healthy, active, and balanced lifestyle. Join us\n                  today and discover the difference that comes with being part\n                  of the Karachi Executive Gym community."}
                 </p>
               </div>
               <div className={"flex flex-col items-center justify-center gap-5 mt-10 md:flex-row md:justify-start"}>
@@ -953,7 +956,7 @@ export default function App() {
             <div className={"flex flex-col gap-[60px] lg:flex-row"}>
               <div className={"w-full max-w-[300px] lg:max-w-[384px]"}>
                 <address>
-                  {"GYM X Elite Residency & Shopping Mall, Sahba Akhtar Rd,\n                  Block 13D-2, Gulshan-e-Iqbal, Karachi, 75300, Pakistan"}
+                  {"Karachi Executive Gym,\n                  Block 10-A, Gulshan-e-Iqbal, Karachi"}
                 </address>
                 <div className={"my-[41px]"}>
                   <div>
@@ -972,11 +975,11 @@ export default function App() {
                   </svg>
                   {"info@gymx.com"}
                 </a>
-                <a rel={"noreferrer"} className={"flex items-center gap-2 underline hover:opacity-80 transition-opacity"}>
+                <a rel={"noreferrer"} href={"tel:+923129090455"} className={"flex items-center gap-2 underline hover:opacity-80 transition-opacity"}>
                   <svg className={"w-5 h-5 flex-shrink-0"} viewBox={"0 0 24 24"} fill={"currentColor"}>
                     <path d={"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"}></path>
                   </svg>
-                  {"03121057858"}
+                  {"+92 312 909 0455"}
                 </a>
                 <div className={"mt-10"}>
                   {"BF LIFESTYLE GROUP PTE. LTD."}
