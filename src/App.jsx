@@ -64,7 +64,7 @@ export default function App() {
     <noscript></noscript>
     <div className={"__variable_b02708 __className_b02708"} style={s("\n        --font-sans: var(--font-ezra), ui-sans-serif, system-ui, sans-serif;\n        --font-display: var(--font-ezra), ui-sans-serif, system-ui, sans-serif;\n      ")}>
       <header className={"z-[101] flex items-stretch justify-between px-4 2xl:px-8 text-dark-grey bg-true-white font-semibold text-sm uppercase border-b-soft-yellow relative"}>
-        <a aria-label={"Home"} className={"py-[20px] mx-2 2xl:mx-8 shrink-0"}>
+        <a aria-label={"Home"} className={"site-logo-link mx-2 2xl:mx-8 shrink-0"}>
           <span className={"text-2xl font-display font-bold tracking-wide site-logo"}>{"Karachi Executive Gym"}</span>
         </a>
         <div className={"hidden xl:flex gap-[8px] 2xl:gap-[20px]"}>

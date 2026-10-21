@@ -1828,7 +1828,8 @@
 
 /* ===== Responsive fixes (Karachi Executive Gym) ===== */
 header { min-height: 85px; }
-.site-logo { font-size: 16px; line-height: 1.2; white-space: nowrap; display: inline-block; }
+.site-logo { font-size: clamp(13px, 4.4vw, 16px); line-height: 1.2; white-space: nowrap; display: inline-block; }
+.site-logo-link { display: flex; align-items: center; height: 100%; padding-top: 14px; }
 @media (min-width: 640px) { .site-logo { font-size: 18px; } }
 @media (min-width: 768px) { .site-logo { font-size: 20px; } }
 @media (min-width: 1280px) { .site-logo { font-size: 18px; } }
