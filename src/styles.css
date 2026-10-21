@@ -1825,3 +1825,21 @@
   object-fit: cover;
   object-position: center;
 }
+
+/* ===== Responsive fixes (Karachi Executive Gym) ===== */
+header { min-height: 85px; }
+.site-logo { font-size: 16px; line-height: 1.2; white-space: nowrap; display: inline-block; }
+@media (min-width: 640px) { .site-logo { font-size: 18px; } }
+@media (min-width: 768px) { .site-logo { font-size: 20px; } }
+@media (min-width: 1280px) { .site-logo { font-size: 18px; } }
+@media (min-width: 1536px) { .site-logo { font-size: 24px; } }
+
+.carousel-track { overflow-x: auto; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+.carousel-track::-webkit-scrollbar { display: none; }
+.carousel-slide { scroll-snap-align: start; scroll-snap-stop: always; }
+
+.wwd-card { width: 100%; max-width: 360px; }
+@media (min-width: 1024px) { .wwd-card { width: 360px; max-width: none; } }
+.wwd-card-media { width: 100%; height: 350px; }
+
+.event-card { width: 100%; max-width: 360px; }
